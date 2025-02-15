@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sam1093k
-- 👀 I’m interested in learning program
-- 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on ///
-- 📫 How to reach me ///
+@echo off
+interested program
+currently learning programing
 
 <!---
 sam1093k/sam1093k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
