@@ -1,6 +1,6 @@
-@echo off
-interested program
-currently learning programing
+-@echo off
+-interested program
+-currently learning programing
 
 <!---
 sam1093k/sam1093k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
